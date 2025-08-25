@@ -1,1 +1,6 @@
-# CS-320
+# How can I ensure that my code, program, or software is functional and secure?
+I can ensure functionality and security by following best practices such as modular programming, consistent testing, and code reviews. Functionality comes from thorough testing unit tests, integration tests, and user acceptance tests while security requires implementing safe coding standards, validating user input, handling errors gracefully, and keeping dependencies updated. Documenting the code and using static analysis tools also help catch potential vulnerabilities.
+# How do I interpret user needs and incorporate them into a program?
+I interpret user needs by analyzing user stories, conducting research, and identifying patterns in how users interact with the system. I then translate these needs into functional requirements and design features that directly address them. Prioritizing clarity and accessibility ensures that the final program is not only usable but also aligned with the goals of the intended audience.
+# How do I approach designing software?
+I approach software design by starting with the problem I’m trying to solve and the needs of the users. I break down the problem into smaller components, plan the architecture, and create visual or written representations before coding. I also incorporate iterative design principles, meaning I build, test, and refine based on feedback to ensure the software is both effective and user centered.
